@@ -1,5 +1,5 @@
 # Isaacs-Skin-Stealer
-I made this program a while back, like in 2015, and then in 2018 I went to use it and then realized the Minecraft API had changed, so I updated it to work with the new API, and I just recently finished it up and removed some bugs.  
+I made this program a while back, like in 2015, and then in 2018 I went to use it and realized the Minecraft API had changed, so I updated it to work with the new API, and I just recently finished it up and removed some bugs.  
 
 Also I'm not very good at organizing code so it might look a little messy.
 
