@@ -13,6 +13,6 @@ To download it, you can either:
 The program is simple, just type in a minecraft username, click find skin and it will show up, then click save skin and then you can save it to wherever.
 
 ## Example Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=mEX2rM4ivRU
-" target="_blank"><img src="http://img.youtube.com/vi/mEX2rM4ivRU/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_7V-QcsmSuY
+" target="_blank"><img src="http://img.youtube.com/vi/_7V-QcsmSuY/0.jpg" 
 alt="example" width="240" height="180" border="10" /></a>
