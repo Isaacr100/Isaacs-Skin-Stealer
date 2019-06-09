@@ -10,7 +10,7 @@ To download it, you can either:
 - or you can just download the exe from /bin/release/. (You would also need to download the Newtonsoft.json.dll for it to work.)
 
 ## Using it 
-The program is simple, just type in a minecraft username, click find skin and it will show up, then click save skin and then you can save it to wherever.
+The program is simple, just type in a minecraft username, click find skin and it will show up, then click save skin and then you can save it to wherever.  Also don't click enter too many times or it might freeze up because tehres a limit to the number of times you can make requests to the Minecraft API.
 
 ## Example Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_7V-QcsmSuY
